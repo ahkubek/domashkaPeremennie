@@ -16,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="zadacha2" />
+        <entry key="$PROJECT_DIR$" value="zadacha3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671739644122</updated>
       <workItem from="1671739645244" duration="1070000" />
-      <workItem from="1671770929435" duration="1851000" />
+      <workItem from="1671770929435" duration="2595000" />
     </task>
     <task id="LOCAL-00001" summary="задача 1">
       <created>1671740022503</created>
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671772328441</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="задача 3">
+      <created>1671773126227</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671773126227</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
