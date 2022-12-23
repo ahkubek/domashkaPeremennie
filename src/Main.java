@@ -1,10 +1,14 @@
 public class Main {
     public static void main(String[] args)
     {
-    var dog = 8.0;
+        var firstboxer = 78.2;
+        var secondboxer =82.7;
+        var dog = 8.0;
     var cat = 3.6;
-    var   friend = 19;
+            var friend = 19;
         var paper = 763789;
+       var  raznica=   firstboxer-secondboxer;
+       var ObshiyVes=firstboxer+secondboxer;
         System.out.println(dog);
         dog=dog+4;
         System.out.println(dog);
@@ -26,6 +30,9 @@ public class Main {
         System.out.println(friend);
         friend=friend/7;
         System.out.println(friend);
+        System.out.println("Общий вес"+ObshiyVes);
+        System.out.println("Разница в весе"+raznica);
+
 
     }
 }

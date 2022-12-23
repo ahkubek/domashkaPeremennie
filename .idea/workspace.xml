@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="517dc4ce-249a-44d6-8ae2-502da8621445" name="Changes" comment="задача 3">
+    <list default="true" id="517dc4ce-249a-44d6-8ae2-502da8621445" name="Changes" comment="задача 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -16,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="zadacha3" />
+        <entry key="$PROJECT_DIR$" value="zadacha4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671739644122</updated>
       <workItem from="1671739645244" duration="1070000" />
-      <workItem from="1671770929435" duration="2595000" />
+      <workItem from="1671770929435" duration="12233000" />
     </task>
     <task id="LOCAL-00001" summary="задача 1">
       <created>1671740022503</created>
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671773126227</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="задача 4">
+      <created>1671773788539</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671773788539</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +105,7 @@
     <MESSAGE value="задача 1" />
     <MESSAGE value="задача 2" />
     <MESSAGE value="задача 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="задача 3" />
+    <MESSAGE value="задача 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="задача 4" />
   </component>
 </project>
