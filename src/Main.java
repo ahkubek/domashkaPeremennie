@@ -17,8 +17,8 @@ public class Main {
 
         System.out.println(paper);
         paper=paper+4;
-        System.out.println();
-        paper=paper-4;
+        System.out.println(paper);
+        paper=paper-7639;
         System.out.println(paper);
 
 
